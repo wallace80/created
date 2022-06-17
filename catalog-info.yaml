@@ -2,7 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "createdone"
+  annotations:
+    github.com/project-slug: wallace80/created
 spec:
   type: service
-  owner: user:guest
+  owner: user:josef
   lifecycle: experimental

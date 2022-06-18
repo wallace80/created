@@ -4,6 +4,7 @@ metadata:
   name: "createdone"
   annotations:
     github.com/project-slug: wallace80/created
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: user:josef

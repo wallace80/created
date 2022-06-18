@@ -1,0 +1,8 @@
+site_name: 'Created Repo'
+
+nav:
+  - Home: index.md
+  - Duck All: duck.md
+
+plugins:
+  - techdocs-core
